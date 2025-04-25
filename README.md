@@ -13,7 +13,7 @@
 
 ## 🤖 Linguagens e Tecnologias
 
-<img src="https://skillicons.dev/icons?i=javascript,html,css,git,bootstrap,nodejs,express,typescript,postgresql,postman" />
+<img src="https://skillicons.dev/icons?i=javascript,html,css,git,bootstrap,nodejs,express,typescript,postgresql,postman,figma" />
 
 ## 📊 Estatísticas
 <p style="display: inline-block;">
